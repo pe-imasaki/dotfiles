@@ -1,6 +1,8 @@
 filetype off
 
 " display
+scriptencoding utf-8
+set encoding=utf-8
 set fileencodings=utf-8,sjis,euc-jp,latin1
 set number
 set laststatus=2
